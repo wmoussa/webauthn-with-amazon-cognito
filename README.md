@@ -1,6 +1,6 @@
 # WebAuthn with Amazon Cognito
 
-This project is a demonstration of how to implement FIDO-based authentication with Amazon Cognito user pools.
+This project is a demonstration of how to implement FIDO-based authentication with Amazon Cognito user pools. From Mahmoud Matouk @[How to implement password-less authentication with Amazon Cognito and WebAuthn](https://aws.amazon.com/blogs/security/how-to-implement-password-less-authentication-with-amazon-cognito-and-webauthn/)
 
 ## Requirements
 - AWS account and permissions to create CloudFormation stacks, Cognito resources and lambda functions
